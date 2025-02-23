@@ -1,13 +1,12 @@
-[
-    {
+[{
         "id": "5d7b7793-89d0-4a5b-b05b-8ce3dc304ce3",
-        "name": "Live",
+        "name": "Live on MV-SIPN",
         "definition": "The Live environment, on MV-SIPN.",
         "urlString": "https://api.swiftnet.sipn.swift.com"
     }, {
         "id": "40ae0652-a8a6-4b8d-81ee-e93013d51fdc",
-        "name": "Test",
-        "definition": "The Test environment, on MV-SIPN.",
+        "name": "Pilot on MV-SIPN",
+        "definition": "The Pilot environment, on MV-SIPN.",
         "urlString": "https://api-test.swiftnet.sipn.swift.com"
     }, {
         "id": "9e034f61-c26b-447b-8488-72fb341d4d4e",
@@ -16,9 +15,9 @@
         "urlString": "https://api.swift.com"
     }, {
         "id": "30908efa-b0ae-4837-a573-ba62c621e88d",
-        "name": "Test on Internet",
-        "definition": "The Test environment, on the Internet.",
-        "urlString": "https://api-test.swift.com"
+        "name": "Pilot on Internet",
+        "definition": "The Pilot environment, on the Internet.",
+        "urlString": "https://api-pilot.swift.com"
     }, {
         "id": "e8ec8791-6c62-47cb-aec1-04d692c80b4b",
         "name": "Sandbox",
