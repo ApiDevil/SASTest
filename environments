@@ -1,6 +1,6 @@
 [{
         "id": "5d7b7793-89d0-4a5b-b05b-8ce3dc304ce3",
-        "name": "Live on MV-SIPN",
+        "name": "Live on Secure Network",
         "definition": "The Live environment, on MV-SIPN.",
         "urlString": "https://api.swiftnet.sipn.swift.com"
     }, {
